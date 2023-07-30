@@ -40,4 +40,4 @@ invokeAction(argv);
 //node contacts --action read
 //node contacts --action getById --id  AeHIrLTr6JkxGE6SN-0Rw
 //node contacts --action add --name Worm --email John C. McCrae --phone 852-741-96
-//node contacts --action deleteById --id rsKkOQUi80UsgVPCcLZZW
+//node contacts --action deleteById --id hY_XN7eFBKTWsMKwjE83V
